@@ -122,7 +122,7 @@ set rcdevice_init_dev_attempts = 4
 set gyro_1_sensor_align = CW90
 set gyro_1_align_yaw = 900
 set gyro_2_spibus = 0
-set name = Meteor65 HD
+set name = Meteor75
 
 profile 0
 
