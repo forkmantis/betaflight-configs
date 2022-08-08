@@ -13,7 +13,7 @@ batch start
 
 board_name CRAZYBEEF4SX1280
 
-# name: Mobula6 ELRS
+# name: mobm6ntis
 
 # resources
 resource MOTOR 1 B08
@@ -28,7 +28,7 @@ feature -TELEMETRY
 serial 1 2048 115200 57600 0 115200
 
 # aux
-aux 0 0 0 1800 2100 0 0
+aux 0 0 0 900 1350 0 0
 aux 1 1 1 900 1200 0 0
 aux 2 13 6 1650 2100 0 0
 aux 3 35 2 1800 2100 0 0
@@ -86,7 +86,7 @@ set vtx_power = 5
 set vtx_low_power_disarm = ON
 set vtx_freq = 5665
 set expresslrs_uid = 0,0,251,25,126,31
-set name = Mobula6 ELRS
+set name = mobm6ntis
 
 profile 0
 
